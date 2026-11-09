@@ -1,0 +1,12 @@
+# 代理的跨会话记忆，不属于项目内容
+self-improvement/
+
+# 临时目录（截图、测试脚手架、下载产物）
+_*/
+node_modules/
+*.log
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
